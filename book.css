@@ -1,0 +1,200 @@
+.container{
+    background-color: khaki;
+    border: 2px solid brown;
+    height:1150px;
+    width:98%;
+}
+.Description
+{
+/*background-color:#b8b894;*/
+height:400px;
+width:67%;
+position:relative;
+left:400px;
+
+
+}
+.container2 img
+{
+position:absolute;
+left:50px;
+width:300px;
+height:400px;
+vertical-align:top;
+align:left;
+}
+.container2 p{
+font-family:monospace;
+font-size:24px;
+
+}
+
+.container2{
+    background-color: rgb(122, 166, 187);
+    border: 2px solid khaki;
+    height: 2500px;
+    width: 98%;
+}
+hr{
+    border: 2px solid white;
+    height: 5px;
+    background-color:white;
+}
+h1{
+    background-color: white;
+    color:brown;
+    padding-left: 200px;
+    font-size: 40px;
+     font-family: cursive;
+}
+.box1{
+    position: absolute;
+    background-color: cornsilk;
+    border: 2px solid brown;
+    width:32%;
+    height:500px ;
+    left: 20px;
+}
+.box1 img{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    
+    width: 400px;
+    height: 400px;
+    
+}
+button{
+    position: absolute;
+    bottom: 10px;
+    left: 120px;
+    border: 2px solid grey;
+    background-color: skyblue;
+    border-radius: 10px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    color:black;
+    background: transparent;
+    font-family:cursive;
+    font-size: 20px;
+}
+button:hover{
+    font-size: 25px;
+    background: indianred;
+    width:210px;
+    height:60px;
+}
+.box2{
+    position: absolute;
+    background-color: cornsilk;
+    border: 2px solid brown;
+    width:32%;
+    height:500px ;
+    left: 460px;
+}
+.box2 img{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    
+    width: 400px;
+    height: 400px;   
+}
+.box3{
+    position: absolute;
+    background-color: cornsilk;
+    border: 2px solid brown;
+    width:30%;
+    height:500px ;
+    left: 900px;
+}
+.box3 img{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    
+    width: 380px;
+    height: 400px;   
+}
+.box4{
+    position: absolute;
+    background-color: cornsilk;
+    border: 2px solid brown;
+    width:32%;
+    height:500px ;
+    left: 20px;
+    top: 650px;
+}
+.box4 img{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    
+    width: 400px;
+    height: 400px;
+}
+.box5{
+    position: absolute;
+    background-color: cornsilk;
+    border: 2px solid brown;
+    width:32%;
+    height:500px ;
+    left: 460px;
+    top: 650px;
+}
+.box5 img{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    
+    width: 400px;
+    height: 400px;
+}
+.box1:hover{
+    background-color: BROWN;
+
+}
+.box2:hover{
+    background-color: BROWN;
+
+}
+.box3:hover{
+    background-color: BROWN;
+
+}
+.box4:hover{
+    background-color: BROWN;
+
+}
+.box5:hover{
+    background-color: BROWN;
+
+}
+.box1 img:hover{
+    
+
+    height:406px;
+    width: 406px;
+}
+.box2 img:hover{
+
+
+    height:406px;
+    width: 406px;
+}
+.box3 img:hover{
+    height:406px;
+    width: 386px;
+}
+.box4 img:hover{
+
+    height:406px;
+    width: 406px;
+}
+.box5 img:hover{
+
+    height:406px;
+    width: 406px;
+}
